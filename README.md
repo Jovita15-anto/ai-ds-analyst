@@ -234,6 +234,7 @@ Run the project tests using:
 
 ```bash
 uv run pytest
+```
 
 ## 🚀 Future Improvements
 
