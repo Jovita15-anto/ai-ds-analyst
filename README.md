@@ -98,7 +98,7 @@ Streamlit Dashboard
 - **uv** – Python package and environment management
 
 ## 📁 Project Structure
-
+```
 AI-DS-Analyst/
 │
 ├── app.py
@@ -121,7 +121,7 @@ AI-DS-Analyst/
 │       └── agent_test.py
 │
 └── tests/
-
+```
 ### Project Components
 
 - `app.py` – Streamlit application and user interface.
